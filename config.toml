@@ -1,3 +1,4 @@
 baseURL = "https://manuel.is/"
 languageCode = "en-us"
 title = "manuel.is"
+theme = "one"

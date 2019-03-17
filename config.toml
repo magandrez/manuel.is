@@ -5,5 +5,9 @@ theme = "one"
 
 enableEmoji = true
 
+pygmentsCodefences = true
+pygmentsCodefencesGuessSyntax = true
+pygmentsStyle = "pygments"
+
 [params]
 navigation = ["archives.md", "about.md"]

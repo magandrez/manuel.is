@@ -2,3 +2,6 @@ baseURL = "https://manuel.is/"
 languageCode = "en-us"
 title = "manuel.is"
 theme = "one"
+
+[params]
+navigation = ["archives.md", "about.md"]

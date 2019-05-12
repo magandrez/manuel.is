@@ -2,7 +2,6 @@ baseURL = "https://manuel.is/"
 languageCode = "en-us"
 title = "manuel.is"
 theme = "one"
-
 enableEmoji = true
 
 pygmentsCodefences = true
@@ -11,3 +10,5 @@ pygmentsStyle = "pygments"
 
 [params]
 navigation = ["archives.md", "about.md"]
+blog = "ramblings"
+tagline = "\b/ˈramblɪŋ\b/ (of writing or speech) lengthy and confused or inconsequential."

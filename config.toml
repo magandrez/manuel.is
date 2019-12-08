@@ -13,3 +13,10 @@ navigation = ["archives.md", "about.md"]
 blog = "ramblings"
 tagline = "/ˈramblɪŋ/ (of writing or speech) lengthy and confused or inconsequential."
 siteDescription = "manuel gonzález's (spavi) personal website"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+      linkify = false
+    [markup.goldmark.renderer]
+      unsafe = true

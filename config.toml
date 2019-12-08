@@ -4,10 +4,6 @@ title = "manuel.is"
 theme = "one"
 enableEmoji = true
 
-pygmentsCodefences = true
-pygmentsCodefencesGuessSyntax = true
-pygmentsStyle = "pygments"
-
 [params]
   navigation = ["archives.md", "about.md"]
   blog = "ramblings"
@@ -20,3 +16,7 @@ pygmentsStyle = "pygments"
       linkify = false
     [markup.goldmark.renderer]
       unsafe = true
+  [markup.highlight]
+    style = "monokai"
+    lineNumbersInTable = false
+    lineNos = true

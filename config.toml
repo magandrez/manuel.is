@@ -9,6 +9,7 @@ enableEmoji = true
   blog = "ramblings"
   tagline = "/ˈramblɪŋ/ (of writing or speech) lengthy and confused or inconsequential."
   siteDescription = "manuel gonzález's (spavi) personal website"
+  mainSections = ["posts"]
 
 [markup]
   [markup.goldmark]

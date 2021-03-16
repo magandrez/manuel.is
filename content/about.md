@@ -12,7 +12,7 @@ If you want to see some code I have written, you can visit my [GitHub account](h
 
 On the interwebs, I go by `magandrez` (my full name _rehashed_), `spavi` or `spav`.
 
-If you want to contact me, please, do send me an email: **manuel@manuel.is** and if you care about privacy, my GPG fingerprint is [431D 296B 4ED4 F7DC 61D6 EEEB 0C72 166F 8754 1FE1](/pgp/manuel.asc). :email:
+If you want to contact me, please, do send me an email: **manuel@manuel.is** and if you care about privacy, my GPG fingerprint is [431D 296B 4ED4 F7DC 61D6 EEEB 0C72 166F 8754 1FE1](/pgp/manuel.gpg). :email:
 
 {{< figure src="/image/myself_2018.png" alt="Portrait of myself" title="Me and my shadow" >}}
 

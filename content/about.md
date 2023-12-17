@@ -12,7 +12,9 @@ If you want to see some code I have written, you can visit my [GitHub account](h
 
 On the interwebs, I go by `magandrez` (my full name _rehashed_), `spavi` or `spav`.
 
-If you want to contact me, please, do send me an email: **manuel[at]manuel.is** and if you care about privacy, my GPG fingerprint is [431D 296B 4ED4 F7DC 61D6 EEEB 0C72 166F 8754 1FE1](/pgp/manuel.gpg). :email:
+If you want to contact me, please, do send me an email: **manuel[at]manuel.is**
+and if you care about privacy, my GPG fingerprint is
+[431D296B4ED4F7DC61D6EEEB0C72166F87541FE1](/pgp/manuel.gpg). :email:
 
 {{< figure src="/image/myself_2018.png" alt="Portrait of myself" title="Me and my shadow" >}}
 
@@ -25,3 +27,5 @@ _Bram Stoker_
 EDIT Dec 8, 2019: Use built-in shortcut for `<figure>`.
 
 EDIT Aug 7, 2021: Remove Instagram references.
+
+EDIT Dec 17, 2023: Updated GPG fingerprint.

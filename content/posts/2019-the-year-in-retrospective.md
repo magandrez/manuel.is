@@ -8,7 +8,7 @@ The end of the year is soon upon us. I am not a fan of any new year's resolution
 
 One of the most common practice is the daily reflection, exercised for example by [journaling](https://en.wikipedia.org/wiki/Diary). This has proven for me to be a very powerful tool in all aspects of life.
 
-{{< figure src="/image/summertime.jpg" title="Memories of summer. f/2.5 1/500s ISO100 @ 23mm" >}}
+{{< figure src="/image/summertime.jpg" title="Memories of summer. f/2.5 1/500s ISO100 @ 23mm" alt="Summertime picture taken by myself">}}
 
 
 So, I wanted to mix daily reflections and the concept of [*zeitgeist*](https://en.wikipedia.org/wiki/Zeitgeist), to review some topics I have touched during 2019. Below, a list in no particular order:
@@ -32,10 +32,12 @@ For the later, I decided to reduce the average amount of books I read during a y
 
 **Leisure** :bicyclist: -- Fun was had, indeed. With my new bike I had fun on a solo 400km trip. Hiking the Finnish fjells short after with my dog Aarre was also a bliss. I was rather inconsistent at practicing some sort of physical activity for a sustained period of time (i.e. more than 6 months). I stopped my mysore practice due to fatigue, I stopped swimming out of boredom and I interrupted running because of the weather. Looking forward for getting on my bike in 2020.
 
-{{< figure src="/image/aarre_running.jpg" title="Aarre running. 1/640s ISO100 shot with Minolta MC Rokkor 1:1.7 55mm" >}}
+{{< figure src="/image/aarre_running.jpg" title="Aarre running. 1/640s ISO100 shot with Minolta MC Rokkor 1:1.7 55mm" alt="Aarre running, picture taken by myself">}}
 
 **Doggy** :dog: Aarre is the best thing that has happened to me in 2019. Hands down. He makes me so happy!. I am super glad I came across him and I could provide him home, food and entertainment. Remember to [adopt, don't shop](https://www.caninejournal.com/adopt-dont-shop/).
 
 I have it clear now, I am failing to follow up on things :see_no_evil: Well, at least I know what I need to work on.
 
 I recommend this or any other kind of reflection if you are trying to get deeper into the _whys_ and be systematic when going about things. I could start by updating this site more often...
+
+EDIT Dec 17, 2023: Updated `<figure>` elements to include `alt` attribute.

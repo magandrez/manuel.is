@@ -20,7 +20,7 @@ the mess we leave behind with the maximum impact possible. No
 greenwashing. _Really_ doing it properly, and even going beyond, knowing that we
 have to clean two centuries of craze and running forward.
 
-{{< figure src="/image/dust_bowl.jpg#center" link="https://americanart.si.edu/artwork/dust-bowl-10614" title="Alexandre Hogue, Dust Bowl, 1933, oil on canvas, 24 x 32 5/8 in. (61 x 82.8 cm) , Smithsonian American Art Museum, Gift of International Business Machines Corporation, 1969.123" >}}
+{{< figure src="/image/dust_bowl.jpg#center" link="https://americanart.si.edu/artwork/dust-bowl-10614" title="Alexandre Hogue, Dust Bowl, 1933, oil on canvas, 24 x 32 5/8 in. (61 x 82.8 cm) , Smithsonian American Art Museum, Gift of International Business Machines Corporation, 1969.123" alt="Dust Bowl painting by Alexandre Hogue">}}
 
 But we could not continue. I collected my thoughts and posted them elsewhere,
 the transcript below:
@@ -92,3 +92,5 @@ It is a sad situation, and we saw it coming. Like deer in the headlights, we
 stared at the event, defenseless and let it hit us and wash us ashore.
 
 Now we need to get out of this cul-de-sac.
+
+EDIT Dec 17, 2023: Updated `<figure>` elements to include `alt` attribute.

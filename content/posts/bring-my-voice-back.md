@@ -27,7 +27,7 @@ scandal](https://en.wikipedia.org/wiki/Facebook%E2%80%93Cambridge_Analytica_data
 Zuck appeared before US Congress), I was long gone from this platform due to
 privacy concerns.
 
-{{< figure src="/image/gail_anderson_poster.jpg#center" link="https://collections.si.edu/search/detail/edanmdm:nmaahc_2020.11.12?q=guid%3A%22ark%3A%2F65665%2Ffd5b38a5cfacfdb4cedabc0c39ecece5051%22&record=1&hlterm=guid%3A%26quot%3Bark%3A%2F65665%2Ffd5b38a5cfacfdb4cedabc0c39ecece5051%26quot%3B" title="Gail Anderson on Marian Wright Edelman. Collection of the Smithsonian National Museum of African American History and Culture. © Gail Anderson." >}}
+{{< figure src="/image/gail_anderson_poster.jpg#center" link="https://collections.si.edu/search/detail/edanmdm:nmaahc_2020.11.12?q=guid%3A%22ark%3A%2F65665%2Ffd5b38a5cfacfdb4cedabc0c39ecece5051%22&record=1&hlterm=guid%3A%26quot%3Bark%3A%2F65665%2Ffd5b38a5cfacfdb4cedabc0c39ecece5051%26quot%3B" title="Gail Anderson on Marian Wright Edelman. Collection of the Smithsonian National Museum of African American History and Culture. © Gail Anderson." alt="Gail Anderson poster">}}
 
 In the case of Twitter, the community had long been complaining about rampant
 racism, sexism and general toxicity of the website. But the final showdown came
@@ -57,3 +57,5 @@ here, and no, I won't be providing comments or
 [pingbacks](https://en.wikipedia.org/wiki/Pingback "Pingback article in
 Wikipedia"), if you **really** want to get in touch with me, you can do it via
 [email](https://manuel.is/about/ "About page in manuel.is").
+
+EDIT Dec 17, 2023: Updated `<figure>` elements to include `alt` attribute.

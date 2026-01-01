@@ -27,8 +27,8 @@ these people use to become even more rich, specially for some services that are
 not necessarily critical. And so, two days after, my partner was out of
 Goodreads.
 
-{{< figure src="/image/parade.jpg#center"
-link="https://www.metmuseum.org/art/collection/search/25111" title="Album of Tournaments and Parades in Nuremberg. Late 16th–mid-17th century. Pen and ink, watercolor, gold and silver washes; paper bound in gold-tooled leather. Rogers Fund, 1922" alt="Image of album of Tournaments and Parades in Nuremberg">}}
+{{< figure src="parade.jpg"
+link="https://www.metmuseum.org/art/collection/search/25111" title="Album of Tournaments and Parades in Nuremberg. Late 16th–mid-17th century. Pen and ink, watercolor, gold and silver washes; paper bound in gold-tooled leather. Rogers Fund, 1922" alt="Image of album of Tournaments and Parades in Nuremberg" class="center">}}
 
 I know very well that there's been an alternative out there for while (6 years,
 to be precise): [The StoryGraph](https://app.thestorygraph.com/). By many

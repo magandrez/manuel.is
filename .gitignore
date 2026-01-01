@@ -2,3 +2,7 @@ public/
 static/
 .DS_Store
 .hugo_build.lock
+content/**/*.png
+content/**/*.jpg
+content/**/*.jpeg
+resources/_gen/

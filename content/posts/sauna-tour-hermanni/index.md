@@ -30,9 +30,9 @@ neighborhood, part of the Vallila district. Its name comes from a _free lord_ (?
 named Herman Sigfrid Standertskjöld-Nordenstam, who owned a manor —[Kumpulan
 kartano]()— in the area.
 
-{{< figure src="/image/Kumpulan_kartano.jpg#center"
+{{< figure src="Kumpulan_kartano.jpg"
 link="https://commons.wikimedia.org/wiki/File:Magnus_von_Wright,_Kumpulan_kartano.jpg"
-title="Magnus von Wright, Kumpulan kartano, 1861. Oil on canvas. Helsinki City Museum 2005. p. 54. Public Domain." alt="Image of Kumpula manor" >}}
+title="Magnus von Wright, Kumpulan kartano, 1861. Oil on canvas. Helsinki City Museum 2005. p. 54. Public Domain." alt="Image of Kumpula manor" class="center">}}
 
 Moving on in time, the neighborhood came to be dominated by a large complex that
 served as abattoir from 1933 all the way to 1992, which, given how relatively
@@ -40,9 +40,9 @@ _centric_ this neighborhood is, feels quite shocking. After the murdering of
 innocent animals for meat stopped, the area turned into a lively complex
 hosting restaurants, cafés and even a local distillery of strong alcohol.
 
-{{< figure src="/image/teurastamo.jpg#center"
+{{< figure src="teurastamo.jpg"
 link="https://hkm.finna.fi/Record/hkm.CE276907-D964-4264-864E-10AF09B4C1AE?sid=3111595704"
-title="Suomen Karjakeskuskunnan teurastamo, Lautatarhankatu 4, 1933. Film paper. Helsinki City Museum. CC BY 4.0." alt="Image of Teurastamo area">}}
+title="Suomen Karjakeskuskunnan teurastamo, Lautatarhankatu 4, 1933. Film paper. Helsinki City Museum. CC BY 4.0." alt="Image of Teurastamo area" class="center">}}
 
 In the late nineties, _gentrification_ came knocking at the door, but the prices
 for housing space were already quite high by the time the refurbishment was
@@ -69,9 +69,9 @@ their clientele were mainly local workforce with limited resources, *accessing
 the sauna can be made at a discounted price for unemployed people*. This was a
 perk that I was happy to find out.
 
-{{< figure src="/image/sauna_decor.jpeg#center"
+{{< figure src="sauna_decor.jpeg"
 link="https://creativecommons.org/licenses/by/4.0/deed.en"
-title="Hermanni Sauna collage, 2023. Photo collage. Own archive. CC BY 4.0." alt="Images from the Hermanni sauna" >}}
+title="Hermanni Sauna collage, 2023. Photo collage. Own archive. CC BY 4.0." alt="Images from the Hermanni sauna" class="center">}}
 
 The facilities are stuffed with memorabilia from different decades, from old
 newspapers, to Super8 film cameras hanging from the walls, old

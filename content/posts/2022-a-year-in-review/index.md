@@ -43,7 +43,7 @@ eye-opening experience. Adrienne brings an engaging narrative and good combinati
 analysis and synthesis to dissect the global capitalist society we take part on
 and how we are confronting the climate crisis.
 
-{{< figure src="/image/celebration.jpeg#center" title="Basque Celebration (dance at El Antiguo, San Sebastián) (circa 1890). Darío de Regoyos. Public domain." >}}
+{{< figure src="celebration.jpeg" title="Basque Celebration (dance at El Antiguo, San Sebastián) (circa 1890). Darío de Regoyos. Public domain." class="center">}}
 
 **Series**
 

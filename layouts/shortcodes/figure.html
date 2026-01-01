@@ -1,0 +1,14 @@
+{{- $src := .Get "src" | default "" -}}
+{{- $alt := .Get "alt" | default "" -}}
+{{- $caption := .Get "title" | default "" -}}
+{{- $class := .Get "class" | default "" -}}
+
+{{- $img := .Page.Resources.GetMatch $src -}}
+
+{{- if $img -}}
+  {{- $resized := $img.Resize "800x" -}}
+  <figure{{ if $class }} class="{{ $class }}"{{ end }}>
+    <img src="{{ $resized.RelPermalink }}" alt="{{ $alt }}" title="{{ $caption }}">
+    {{- if $caption -}}<figcaption>{{ $caption }}</figcaption>{{- end -}}
+  </figure>
+{{- end -}}

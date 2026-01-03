@@ -14,7 +14,7 @@ On the interwebs, I go by `magandrez` (my full name _rehashed_), `spavi` or `spa
 
 If you want to contact me, please, do send me an email: **manuel[at]manuel.is**
 and if you care about privacy, my GPG fingerprint is
-[431D296B4ED4F7DC61D6EEEB0C72166F87541FE1](/pgp/manuel.gpg). :email:
+[431D296B4ED4F7DC61D6EEEB0C72166F87541FE1](/files/manuel.asc). :email:
 
 {{< figure src="myself_2018.png" alt="Portrait of myself" title="Me and my shadow" >}}
 
